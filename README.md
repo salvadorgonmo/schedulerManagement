@@ -1,1 +1,2 @@
 # schedulerManagement
+An iOS and Android app to manage your schedules, money and how to save some money with automatically statistics. Basically, the user can introduce a quantity for their quincenal payments.
